@@ -1,0 +1,47 @@
+운영체제
+운영체제란 무엇인가?
+- 컴퓨터 시스템을 운영하는 소프트웨어
+ex) 리눅스, 윈도우, 맥OS
+컴퓨터란 무엇인가?
+- 컴퓨터란 정보를 처리하는 기계
+클로드셰넌- “사건의 정보 부피는 사건의 발생확률의 로그의 마이너스”
+정보의 단위는 bit - binary digit
+정보란.. 불확실성을 측정하여 수치화하여 표현한 것
+정보의 처리: 정보의 상태 변환(0에서 1로, 1에서 0으로)
+부울 대수(Boolean Algebra): NOT, AND, OR
+트랜지스터로 로직게이트를 만들 수 있음;
+로직게이트: Not, And, Or, Xor, Nand, Nor
+논리회로: IC, LSI, VLSI, ULSI, SoC …
+- 무어의 법칙, 황의 법칙에 따라 집적도가 갈수록 높아지고 있음. 
+- 하지만 양자현상의 한계에 다다르고 있음
+정보의 저장과 전송: 플립-플롭, 데이터베이스
+컴퓨터의 정보처리 방법
+덧셈: 반가산기와 전가산기를 사용
+뺄셈: 2의 보수 표현법
+곱셈, 나눗셈: 덧셈과 뺄셈의 반복
+실수연산: 부동 소수점 표현법
+——
+범용성: universality
+Not, And, Or 게이트만으로 모든 계산 가능
+Nand 게이트만으로 모든 계산 가능
+범용 컴퓨터: general-purpose computer
+계산가능성: computability
+Turing-computable: 튜링 머신으로 계산 가능한 것
+정지문제: Halting Problem: 튜링머신으로 풀 수 없는 문제
+컴퓨터의 할아버지: Alan Turing - Turing Machine
+컴퓨터의 아버지: John von Neuman
+Turing 머신의 구조: head, tape, turing machines, Universal Turing Machine
+computer의 구조: CPU, RAM, Application Programs, Operating System
+——
+폰 노이만이 컴퓨터의 아버지인 이유
+메모리에 프로그램을 저장하는 컴퓨터를 개발
+램에 저장된 명령어를 fetch하여 execute 하는 방식 - 폰 노이만 아키텍쳐
+Instruction Set Architecture
+프로그램이란, 컴퓨터의 하드웨어가 일을 수행하도록 지시하는 명령어들의 집합
+프로그래밍 언어를 어셈플리어로 컴파일 - 기계어로 수행
+——
+운영체제는 프로그램의 일종. 컴퓨터에서 상시 실행됨. 어플리케이션 프로그램에게 시스템 서비스를 제공해줌
+프로세스, 리소스, 유저 인터페이스를 관리해줌
+——
+운영체제란 컴퓨터시스템을 작동시키는 소프트웨어. 유저 인터페이스를 받아 하드웨어와 소프트웨어를 연결시켜줌
+아두이노, 라즈베리파이 - 임베디드. 
