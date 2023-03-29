@@ -15,3 +15,9 @@ HPC Lab. KOREATECH의 Operating System 강의를 순차적으로 보고 정리�
 [4. 스레드 관리](https://solid-bear-de1.notion.site/4-7a5655ec93d34420b1af8f9c94699b0c)
 
 [5. 프로세스 스케줄링](https://solid-bear-de1.notion.site/5-6d7983423a5944bf816fd28b45eff7a0)
+
+---
+
+**W03**
+
+[6. 프로세스 동기화 & 상호배제](https://jinugi.notion.site/6-5c5b3ab9fee64979b00cf120b82593c3)
