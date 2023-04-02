@@ -21,3 +21,10 @@ HPC Lab. KOREATECH의 Operating System 강의를 순차적으로 보고 정리�
 **W03**
 
 [6. 프로세스 동기화 & 상호배제](https://jinugi.notion.site/6-5c5b3ab9fee64979b00cf120b82593c3)
+
+---
+
+**W04**
+
+[7. 교착상태](https://jinugi.notion.site/7-bf44d2bda5e840b2a8b76e0274f537d2)
+
