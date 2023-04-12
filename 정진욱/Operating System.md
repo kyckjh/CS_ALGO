@@ -28,3 +28,10 @@ HPC Lab. KOREATECH의 Operating System 강의를 순차적으로 보고 정리�
 
 [7. 교착상태](https://jinugi.notion.site/7-bf44d2bda5e840b2a8b76e0274f537d2)
 
+---
+
+**W05**
+
+[8. 메모리(주기억장치) 관리](https://jinugi.notion.site/8-3ed1f3c0700747d1a13608bbe6652a32)
+
+---
