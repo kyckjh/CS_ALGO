@@ -35,3 +35,9 @@ HPC Lab. KOREATECH의 Operating System 강의를 순차적으로 보고 정리�
 [8. 메모리(주기억장치) 관리](https://jinugi.notion.site/8-3ed1f3c0700747d1a13608bbe6652a32)
 
 ---
+
+**W06**
+
+[9. 가상 메모리](https://jinugi.notion.site/9-5fab1b7c9ac44a40bb14f07a6f69fb4e)
+
+---
