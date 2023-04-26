@@ -41,3 +41,9 @@ HPC Lab. KOREATECH의 Operating System 강의를 순차적으로 보고 정리�
 [9. 가상 메모리](https://jinugi.notion.site/9-5fab1b7c9ac44a40bb14f07a6f69fb4e)
 
 ---
+
+**W07**
+
+[10. 가상 메모리 관리](https://jinugi.notion.site/10-5ee1700276b544399af88d1c53857146)
+
+---
